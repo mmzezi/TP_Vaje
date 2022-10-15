@@ -1,0 +1,5 @@
+n = input("Vnesite število: ")
+print(type(n))
+n = float(n)
+print(n)
+print(type(n))
